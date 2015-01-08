@@ -1,9 +1,6 @@
 The Puli Factory
 ================
 
-[![Build Status](https://travis-ci.org/puli/factory.svg?branch=master)](https://travis-ci.org/puli/factory)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/puli/factory/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/puli/factory/?branch=master)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/96bbb04c-f5c3-47c2-8e43-1f92d26f7c3a/mini.png)](https://insight.sensiolabs.com/projects/96bbb04c-f5c3-47c2-8e43-1f92d26f7c3a)
 [![Latest Stable Version](https://poser.pugx.org/puli/factory/v/stable.svg)](https://packagist.org/packages/puli/factory)
 [![Total Downloads](https://poser.pugx.org/puli/factory/downloads.svg)](https://packagist.org/packages/puli/factory)
 [![Dependency Status](https://www.versioneye.com/php/puli:factory/1.0.0/badge.svg)](https://www.versioneye.com/php/puli:factory/1.0.0)
