@@ -1,5 +1,5 @@
-The Puli Factory
-================
+The Puli Factory Component
+==========================
 
 [![Latest Stable Version](https://poser.pugx.org/puli/factory/v/stable.svg)](https://packagist.org/packages/puli/factory)
 [![Total Downloads](https://poser.pugx.org/puli/factory/downloads.svg)](https://packagist.org/packages/puli/factory)
@@ -9,12 +9,12 @@ Latest release: none
 
 PHP >= 5.3.9
 
-The [Puli] factory API contains a single interface [`PuliFactory`] that can be
-used to generate Puli's core services. Implementations of this class are
-typically generated with the [Puli CLI]. If you need specialized service
-definitions, you should implement the interface by hand.
+The [Puli] Factory Component contains a single interface [`PuliFactory`] for
+creating Puli's [resource repository] and [discovery]. Implementations of this
+class are typically generated with the [Puli CLI]. If you need specialized 
+service definitions, you should implement the interface by hand.
 
-Read [Puli at a Glance] if you want to learn more about Puli.
+Read [Puli at a Glance] to learn more about Puli.
 
 Authors
 -------
@@ -30,7 +30,7 @@ Follow the [Getting Started] guide to install Puli in your project.
 Documentation
 -------------
 
-Read the [Puli Documentation] if you want to learn more about Puli.
+Read the [Puli Documentation] to learn more about Puli.
 
 Contribute
 ----------
@@ -52,6 +52,8 @@ License
 All contents of this package are licensed under the [MIT license].
 
 [Puli]: http://puli.io
+[resource repository]: https://github.com/puli/repository
+[discovery]: https://github.com/puli/discovery
 [Puli CLI]: https://github.com/puli/cli
 [Bernhard Schussek]: http://webmozarts.com
 [The Community Contributors]: https://github.com/puli/factory/graphs/contributors
@@ -62,4 +64,4 @@ All contents of this package are licensed under the [MIT license].
 [Git repository]: https://github.com/puli/factory
 [@webmozart]: https://twitter.com/webmozart
 [MIT license]: LICENSE
-[`PuliFactory`]: src/PuliFactory.php
+[`PuliFactory`]: http://api.puli.io/latest/class-Puli.Factory.PuliFactory.html
