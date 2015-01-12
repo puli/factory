@@ -1,11 +1,6 @@
 Changelog
 =========
 
-* 1.0.0-alpha2 (@release_date@)
+* 1.0.0-beta (2015-01-12)
 
- * moved code from `Puli\Cli\Console` to `Puli\Cli`
- * removed `PuliCli` class
-
-* 1.0.0-alpha1 (2014-12-03)
-
- * first alpha release
+ * first release
