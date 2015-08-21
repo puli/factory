@@ -5,6 +5,8 @@ The Puli Factory Component
 [![Total Downloads](https://poser.pugx.org/puli/factory/downloads.svg)](https://packagist.org/packages/puli/factory)
 [![Dependency Status](https://www.versioneye.com/php/puli:factory/1.0.0/badge.svg)](https://www.versioneye.com/php/puli:factory/1.0.0)
 
+**ATTENTION: This package is not maintained anymore.**
+
 Latest release: [1.0.0-beta](https://packagist.org/packages/puli/factory#1.0.0-beta)
 
 PHP >= 5.3.9
